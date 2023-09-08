@@ -1,5 +1,4 @@
 import Announcement from "./Announcement";
-import User from "./User";
 
 export default function Announcements() {
   return (
