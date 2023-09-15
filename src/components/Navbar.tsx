@@ -43,7 +43,7 @@ export default function Navbar() {
             />
           </svg>{" "}
           <img
-            src="../../public/unsplash.jpg"
+            src="assets/images/unsplash.jpg"
             alt="User Avatar"
             width={60}
             className="aspect-square rounded-full m-4 inline-block"
@@ -55,7 +55,7 @@ export default function Navbar() {
         <div className="flex flex-row gap-10">
           {" "}
           <img
-            src="../../public/unsplash.jpg"
+            src="assets/images/unsplash.jpg"
             alt="User Avatar"
             width={80}
             className="aspect-square rounded-full my-4"
